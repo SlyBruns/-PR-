@@ -1,5 +1,5 @@
 #include <iostream>
 
-int main {
-    cout << "Hello";
+int main() {
+    std::cout << "Hello";
 }
